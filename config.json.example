@@ -1,0 +1,5 @@
+{
+  "api_key": "YOUR_API_KEY_HERE",
+  "app_secret": "YOUR_APP_SECRET_HERE",
+  "callback_url": "https://localhost:8080"
+}
